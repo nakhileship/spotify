@@ -10,5 +10,16 @@ body{
     padding: 0;
 }
 nav{
- 
+ font-family: 'ubantu', sans-serif;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    height: 65px;
+    background-color: black;
+}
+
+.brand img{
+    width: 56px;
 }
